@@ -93,7 +93,10 @@ Alerts are also printed to the terminal in real time.
 Captured packets can be exported to a `.pcap` file and opened in **Wireshark**
 for deeper forensic analysis.
 
----
+A sample capture file `sample_capture.pcap` is included in the project folder
+for demonstration purposes. Open it in Wireshark to explore real ARP packet structure.
+Run the tool on a live network to generate your own capture.
+
 
 ## Practical Use Cases
 
